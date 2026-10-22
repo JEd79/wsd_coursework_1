@@ -1,0 +1,51 @@
+customer_id,organisation_name,address_line_1,address_line_2,town,postcode,primary_contact_name,primary_contact_email,primary_contact_phone,secondary_contact_name,secondary_contact_email,secondary_contact_phone,account_status,date_registered
+CUS001,Coastal Parking Services Ltd,11 Training Crescent,,Leeds,LS1 1AD,Zara Thomas,primary.cus001@example.org,07700 900001,Samir Clark,secondary.cus001@example.org,07700 900101,ACTIVE,23/05/2022
+CUS002,Northgate Fleet Solutions Ltd,12 Demonstration Road,,Cambridge,CB8 1UV,Ravi Shah,primary.cus002@example.org,07700 900002,Freya Foster,secondary.cus002@example.org,07700 900102,ACTIVE,14/08/2022
+CUS003,Vale Transport Compliance Ltd,13 Sample Mews,,London,SW1A 5HJ,Isla Davies,primary.cus003@example.org,07700 900003,Daniel Singh,secondary.cus003@example.org,07700 900103,ACTIVE,05/11/2022
+CUS004,Blue Harbour Claims Ltd,14 Prototype Avenue,Suite 5,Newcastle,NE1 2EG,Adam Walker,primary.cus004@example.org,07700 900004,Carys Thomas,secondary.cus004@example.org,07700 900104,ACTIVE,27/01/2023
+CUS005,Metro Asset Recovery Ltd,15 Practice Lane,,Aberdeen,AB10 9XY,Hana Morgan,primary.cus005@example.org,07700 900005,Ethan Shah,secondary.cus005@example.org,07700 900105,ACTIVE,20/04/2023
+CUS006,Riverstone Mobility Ltd,16 Illustration Street,,Manchester,M1 5NP,Maya Taylor,primary.cus006@example.org,07700 900006,,,,ACTIVE,12/07/2023
+CUS007,Beacon Parking Management Ltd,17 Model Park,,Liverpool,L1 2FH,Holly Green,primary.cus007@example.org,07700 900007,Owen Walker,secondary.cus007@example.org,07700 900107,ACTIVE,03/10/2023
+CUS008,Crescent Vehicle Services Ltd,18 Example Way,Suite 9,Dundee,DD11 1AB,Oliver Lewis,primary.cus008@example.org,07700 900008,Sophie Morgan,secondary.cus008@example.org,07700 900108,ACTIVE,25/12/2023
+CUS009,Greenway Fleet Administration Ltd,19 Training Crescent,,Birmingham,B1 6QR,Grace Brown,primary.cus009@example.org,07700 900009,Lucas Taylor,secondary.cus009@example.org,07700 900109,ACTIVE,17/03/2024
+CUS010,Westbridge Insurance Services Ltd,20 Demonstration Road,,Nottingham,NG1 4JL,Elijah Reed,primary.cus010@example.org,07700 900010,Aisha Green,secondary.cus010@example.org,07700 900110,ACTIVE,08/06/2024
+CUS011,Orchard Compliance Group Ltd,21 Sample Mews,,Inverness,IV7 2DE,Amelia Patel,primary.cus011@example.org,07700 900011,Arun Lewis,secondary.cus011@example.org,07700 900111,ACTIVE,30/08/2024
+CUS012,Horizon Transport Data Ltd,22 Prototype Avenue,Suite 1,Edinburgh,EH17 7ST,Theo Hughes,primary.cus012@example.org,07700 900012,,,,ACTIVE,21/11/2024
+CUS013,Severn Parking Operations Ltd,23 Practice Lane,,Oxford,OX1 6NP,Alice Jones,primary.cus013@example.org,07700 900013,Noah Reed,secondary.cus013@example.org,07700 900113,ACTIVE,12/02/2025
+CUS014,Highland Fleet Bureau Ltd,24 Illustration Street,,Swansea,SA1 6FQ,Leo Evans,primary.cus014@example.org,07700 900014,Zara Patel,secondary.cus014@example.org,07700 900114,ACTIVE,06/05/2025
+CUS015,Eastbank Motor Administration Ltd,25 Model Park,,Glasgow,G2 6AW,Erin Ahmed,primary.cus015@example.org,07700 900015,Ravi Hughes,secondary.cus015@example.org,07700 900115,ACTIVE,28/07/2025
+CUS016,South Coast Enforcement Services Ltd,26 Example Way,Suite 5,Portsmouth,PO1 6AR,Oscar Baker,primary.cus016@example.org,07700 900016,Isla Jones,secondary.cus016@example.org,07700 900116,ACTIVE,19/10/2025
+CUS017,Amber Vehicle Data Ltd,27 Training Crescent,,Cardiff,CF6 2DE,Harper Williams,primary.cus017@example.org,07700 900017,Adam Evans,secondary.cus017@example.org,07700 900117,ACTIVE,10/01/2026
+CUS018,Pinewood Claims Management Ltd,28 Demonstration Road,,Belfast,BT7 1XY,Samir Clark,primary.cus018@example.org,07700 900018,,,,ACTIVE,03/04/2026
+CUS019,Meridian Mobility Operations Ltd,29 Sample Mews,,Norwich,NR1 7ST,Freya Foster,primary.cus019@example.org,07700 900019,Maya Baker,secondary.cus019@example.org,07700 900119,ACTIVE,25/06/2026
+CUS020,Castleview Fleet Support Ltd,30 Prototype Avenue,Suite 9,Bristol,BS14 5AB,Daniel Singh,primary.cus020@example.org,07700 900020,Holly Williams,secondary.cus020@example.org,07700 900120,ACTIVE,30/04/2022
+CUS021,Meadowbrook Parking Ltd,31 Practice Lane,,Leeds,LS10 1AD,Carys Thomas,primary.cus021@example.org,07700 900021,Oliver Clark,secondary.cus021@example.org,07700 900121,ACTIVE,22/07/2022
+CUS022,Bridgefield Collections Ltd,32 Illustration Street,,Cambridge,CB1 8UW,Ethan Shah,primary.cus022@example.org,07700 900022,Grace Foster,secondary.cus022@example.org,07700 900122,ACTIVE,13/10/2022
+CUS023,Silverline Motor Services Ltd,33 Model Park,,London,SW1A 4HH,Ruby Davies,primary.cus023@example.org,07700 900023,Elijah Singh,secondary.cus023@example.org,07700 900123,ACTIVE,04/01/2023
+CUS024,Cedar Traffic Administration Ltd,34 Example Way,Suite 1,Newcastle,NE12 2EG,Owen Walker,primary.cus024@example.org,07700 900024,,,,ACTIVE,28/03/2023
+CUS025,Oakwell Fleet Analytics Ltd,35 Training Crescent,,Aberdeen,AB7 6CD,Sophie Morgan,primary.cus025@example.org,07700 900025,Theo Shah,secondary.cus025@example.org,07700 900125,ACTIVE,19/06/2023
+CUS026,North Shore Compliance Ltd,36 Demonstration Road,,Manchester,M10 5NP,Lucas Taylor,primary.cus026@example.org,07700 900026,Alice Davies,secondary.cus026@example.org,07700 900126,ACTIVE,10/09/2023
+CUS027,Citywide Parking Operations Ltd,37 Sample Mews,,Liverpool,L1 3FH,Aisha Green,primary.cus027@example.org,07700 900027,Leo Walker,secondary.cus027@example.org,07700 900127,ACTIVE,02/12/2023
+CUS028,Redfern Claims Processing Ltd,38 Prototype Avenue,Suite 5,Dundee,DD10 1AB,Arun Lewis,primary.cus028@example.org,07700 900028,Erin Morgan,secondary.cus028@example.org,07700 900128,ACTIVE,23/02/2024
+CUS029,Brookside Transport Services Ltd,39 Practice Lane,,Birmingham,B2 5TR,Nina Brown,primary.cus029@example.org,07700 900029,Oscar Taylor,secondary.cus029@example.org,07700 900129,ACTIVE,16/05/2024
+CUS030,Elmbridge Mobility Ltd,40 Illustration Street,,Nottingham,NG13 4JL,Noah Reed,primary.cus030@example.org,07700 900030,,,,ACTIVE,07/08/2024
+CUS031,Forth Vehicle Services Ltd,41 Model Park,,Inverness,IV1 3AE,Zara Patel,primary.cus031@example.org,07700 900031,Samir Lewis,secondary.cus031@example.org,07700 900131,ACTIVE,29/10/2024
+CUS032,Dales Parking Partnership Ltd,42 Example Way,Suite 9,Edinburgh,EH1 7ST,Ravi Hughes,primary.cus032@example.org,07700 900032,Freya Brown,secondary.cus032@example.org,07700 900132,ACTIVE,20/01/2025
+CUS033,Peninsula Fleet Bureau Ltd,43 Training Crescent,,Oxford,OX1 5NP,Isla Jones,primary.cus033@example.org,07700 900033,Daniel Reed,secondary.cus033@example.org,07700 900133,ACTIVE,13/04/2025
+CUS034,Granite Compliance Services Ltd,44 Demonstration Road,,Swansea,SA1 1AB,Adam Evans,primary.cus034@example.org,07700 900034,Carys Patel,secondary.cus034@example.org,07700 900134,SUSPENDED,05/07/2025
+CUS035,Lakeside Motor Administration Ltd,45 Sample Mews,,Glasgow,G1 8UW,Hana Ahmed,primary.cus035@example.org,07700 900035,Ethan Hughes,secondary.cus035@example.org,07700 900135,SUSPENDED,26/09/2025
+CUS036,Harbourview Mobility Ltd,46 Prototype Avenue,Suite 1,Portsmouth,PO1 6QR,Maya Baker,primary.cus036@example.org,07700 900036,,,,SUSPENDED,18/12/2025
+CUS037,Kingsway Parking Services Ltd,47 Practice Lane,,Cardiff,CF10 2DE,Holly Williams,primary.cus037@example.org,07700 900037,Owen Evans,secondary.cus037@example.org,07700 900137,SUSPENDED,11/03/2026
+CUS038,Valley Road Fleet Management Ltd,48 Illustration Street,,Belfast,BT1 9XY,Oliver Clark,primary.cus038@example.org,07700 900038,Sophie Ahmed,secondary.cus038@example.org,07700 900138,SUSPENDED,02/06/2026
+CUS039,Willow Motor Data Ltd,49 Model Park,,Norwich,NR2 3AT,Grace Foster,primary.cus039@example.org,07700 900039,Lucas Baker,secondary.cus039@example.org,07700 900139,SUSPENDED,07/04/2022
+CUS040,Summit Enforcement Services Ltd,50 Example Way,Suite 5,Bristol,BS1 3FG,Elijah Singh,primary.cus040@example.org,07700 900040,Aisha Williams,secondary.cus040@example.org,07700 900140,SUSPENDED,29/06/2022
+CUS041,Alder Vehicle Operations Ltd,51 Training Crescent,,Leeds,LS1 1BD,Amelia Thomas,primary.cus041@example.org,07700 900041,Arun Clark,secondary.cus041@example.org,07700 900141,SUSPENDED,20/09/2022
+CUS042,Parkside Compliance Systems Ltd,52 Demonstration Road,,Cambridge,CB9 6FR,Theo Shah,primary.cus042@example.org,07700 900042,,,,SUSPENDED,12/12/2022
+CUS043,Broadwater Fleet Services Ltd,53 Sample Mews,,London,SW1A 4HJ,Alice Davies,primary.cus043@example.org,07700 900043,Noah Singh,secondary.cus043@example.org,07700 900143,CLOSED,05/03/2023
+CUS044,Westmoor Parking Management Ltd,54 Prototype Avenue,Suite 9,Newcastle,NE1 1EG,Leo Walker,primary.cus044@example.org,07700 900044,Zara Thomas,secondary.cus044@example.org,07700 900144,CLOSED,27/05/2023
+CUS045,Civic Claims Administration Ltd,55 Practice Lane,,Aberdeen,AB1 2AY,Erin Morgan,primary.cus045@example.org,07700 900045,Ravi Shah,secondary.cus045@example.org,07700 900145,CLOSED,18/08/2023
+CUS046,Seabrook Mobility Solutions Ltd,56 Illustration Street,,Manchester,M1 5MP,Oscar Taylor,primary.cus046@example.org,07700 900046,Isla Davies,secondary.cus046@example.org,07700 900146,CLOSED,09/11/2023
+CUS047,Moorland Asset Services Ltd,57 Model Park,,Liverpool,L12 4GH,Harper Green,primary.cus047@example.org,07700 900047,Adam Walker,secondary.cus047@example.org,07700 900147,CLOSED,31/01/2024
+CUS048,Fairview Transport Management Ltd,58 Example Way,Suite 1,Dundee,DD1 1AB,Samir Lewis,primary.cus048@example.org,07700 900048,,,,CLOSED,23/04/2024
+CUS049,Maple Parking Administration Ltd,59 Training Crescent,,Birmingham,B21 3AA,Freya Brown,primary.cus049@example.org,07700 900049,Maya Taylor,secondary.cus049@example.org,07700 900149,CLOSED,15/07/2024
+CUS050,Tideway Fleet Services Ltd,60 Demonstration Road,,Nottingham,NG1 6JL,Daniel Reed,primary.cus050@example.org,07700 900050,Holly Green,secondary.cus050@example.org,07700 900150,ACTIVE,06/10/2024
